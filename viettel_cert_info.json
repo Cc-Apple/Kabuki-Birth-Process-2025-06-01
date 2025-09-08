@@ -1,0 +1,13 @@
+{
+  "subject": "CN=*.viettel.vn,O=VIETTEL TELECOM CORPORATION - BRANCH OF VIETTEL GROUP,L=Hanoi,ST=Hanoi,C=VN",
+  "issuer": "CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",
+  "serial_number": "0x7126574a8e997a2509322469",
+  "not_valid_before": "2024-12-05T06:42:02",
+  "not_valid_after": "2026-01-03T03:01:05",
+  "sha1": "5f96941f91ff55cb7574041044e6f02c06dd0856",
+  "sha256": "67f3dfbd69f2cc519d3e06d7b05a24a1c674bab1d25504e0646f7c167035a439",
+  "eku": [
+    "<ObjectIdentifier(oid=1.3.6.1.5.5.7.3.1, name=serverAuth)>",
+    "<ObjectIdentifier(oid=1.3.6.1.5.5.7.3.2, name=clientAuth)>"
+  ]
+}

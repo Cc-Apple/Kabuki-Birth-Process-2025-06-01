@@ -1,0 +1,13 @@
+bug_type,os_version,incident_id,reason,exception,largest_process,jetsam_level,source,kind,value,path,timestamp,text,hit_buckets,hit_keywords
+298.0,,9E873650-2582-42DC-B68F-D20CBC1D7FB3, : ,,,,iPad_Jetsam,,,,,,,
+,,,,,,,friend_pdf,phone,84372503446,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",,,,
+,,,,,,,friend_pdf,phone,84368154682,"{.-[],.84372503446.-[],.84368154682.-[],.0368154682.-[],.0372503446….pdf",,,,
+,,,,,,,friend_pdf,bundle_id,viettel.zip,My-Viettel-App-MDM.pdf,,,,
+,,,,,,,friend_pdf,bundle_id,viettel.der,My-Viettel-App-MDM.pdf,,,,
+,,,,,,,friend_pdf,flag,prior_install,My-Viettel-App-MDM.pdf,,,,
+,,,,,,,friend_pdf,phone,84368154682,{.84368154682.-[]}.pdf,,,,
+,,,,,,,xp_amp_app_usage_dnu-2025-06-01-123257.ips,,,,2025-06-01 12:32:57,iPad usage log scanned; bundles=157 unique,"MDM,apps,iOS_proc,orgs","BIDV,Binance,Bybit,CEBBank,Facebook,Gmail,HSBC,RTCR,TronLink,VNG,Viettel,YouTube,cloudd,com.tronlink.hdwallet,installcoordinationd,logd,nsurlsessiond,triald"
+,,,,,,,JetsamEvent-2025-06-01-130516.ips,,,,2025-06-01 13:05:16,iPad JetsamEvent scanned; processes_detected=389,"MDM,apps,iOS_proc,orgs","BIDV,Binance,Bybit,CEBBank,Facebook,Gmail,HSBC,JetsamEvent,RTCR,TronLink,VNG,Viettel,YouTube,cloudd,com.tronlink.hdwallet,installcoordinationd,logd,nsurlsessiond,triald"
+,,,,,,,part1.zip:part1.txt,,,,,Scanned text; len=2000000,,
+,,,,,,,part2.zip:part2.txt,,,,,Scanned text; len=2000000,,
+,,,,,,,part3.zip:part3.txt,,,,,Scanned text; len=2000000,,

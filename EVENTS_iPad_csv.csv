@@ -1,0 +1,3 @@
+timestamp,source,text,hit_buckets,hit_keywords
+2025-06-01 12:32:57,xp_amp_app_usage_dnu-2025-06-01-123257.ips,iPad usage log scanned; bundles=157 unique,"MDM,apps,iOS_proc,orgs","BIDV,Binance,Bybit,CEBBank,Facebook,Gmail,HSBC,RTCR,TronLink,VNG,Viettel,YouTube,cloudd,com.tronlink.hdwallet,installcoordinationd,logd,nsurlsessiond,triald"
+2025-06-01 13:05:16,JetsamEvent-2025-06-01-130516.ips,iPad JetsamEvent scanned; processes_detected=389,"MDM,apps,iOS_proc,orgs","BIDV,Binance,Bybit,CEBBank,Facebook,Gmail,HSBC,JetsamEvent,RTCR,TronLink,VNG,Viettel,YouTube,cloudd,com.tronlink.hdwallet,installcoordinationd,logd,nsurlsessiond,triald"

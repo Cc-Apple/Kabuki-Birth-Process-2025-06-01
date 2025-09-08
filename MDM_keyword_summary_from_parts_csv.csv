@@ -1,0 +1,17 @@
+,bucket,keyword,count
+0,MDM,BackgroundShortcutRunner,71
+1,MDM,mdmd,46
+3,apps,Gmail,35
+2,apps,Facebook,29
+4,apps,TronLink,7
+5,apps,YouTube,6
+12,iOS_proc,triald,226
+6,iOS_proc,JetsamEvent,179
+11,iOS_proc,proactive_event_tracker,99
+10,iOS_proc,nsurlsessiond,41
+9,iOS_proc,logd,36
+8,iOS_proc,cloudd,22
+7,iOS_proc,STExtractionService,1
+15,net_abnormal,truncated,51
+13,net_abnormal,WifiLQMM,3
+14,net_abnormal,WifiLQMMetrics,3

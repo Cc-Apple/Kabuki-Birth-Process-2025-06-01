@@ -1,0 +1,22 @@
+,source,bucket,keyword,count
+10,My-Viettel-App-MDM.pdf,MDM,InstallConfigurationProfile,1
+13,My-Viettel-App-MDM.pdf,MDM,MCProfile,1
+14,My-Viettel-App-MDM.pdf,MDM,MCProfileTrustLevel,1
+15,My-Viettel-App-MDM.pdf,MDM,MCXPreferences,1
+18,My-Viettel-App-MDM.pdf,MDM,PayloadType: com.apple.mdm,2
+11,My-Viettel-App-MDM.pdf,MDM,RemoveConfigurationProfile,1
+17,My-Viettel-App-MDM.pdf,MDM,com.apple.ManagedConfiguration,1
+16,My-Viettel-App-MDM.pdf,MDM,mdmd,3
+12,My-Viettel-App-MDM.pdf,MDM,mobileconfig,6
+20,My-Viettel-App-MDM.pdf,apps,MyViettel,5
+19,My-Viettel-App-MDM.pdf,apps,com.vnp.myviettel,5
+5,jetsam,iOS_proc,cloudd,2
+7,jetsam,iOS_proc,logd,2
+6,jetsam,iOS_proc,nsurlsessiond,1
+4,jetsam,iOS_proc,triald,1
+1,xp,apps,Facebook,3
+2,xp,apps,Gmail,1
+0,xp,apps,TronLink,1
+3,xp,apps,YouTube,1
+9,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng… (1).pdf",apps,Facebook,2
+8,"{.message.-.Successful.,.data.-[{.confirm_reg.-.Quý khách muốn đăng….pdf",apps,Facebook,2

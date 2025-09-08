@@ -1,0 +1,8 @@
+expected_keyword,status
+RTCR,found
+Azure,not_found
+MetaAuth,not_found
+Intune,not_found
+InstallConfigurationProfile,found
+MyViettel,found
+com.vnp.myviettel,found

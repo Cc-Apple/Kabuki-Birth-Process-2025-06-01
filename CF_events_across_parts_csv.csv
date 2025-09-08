@@ -1,0 +1,4 @@
+timestamp,source,text
+,part1.zip:part1.txt,Scanned text; len=2000000
+,part2.zip:part2.txt,Scanned text; len=2000000
+,part3.zip:part3.txt,Scanned text; len=2000000

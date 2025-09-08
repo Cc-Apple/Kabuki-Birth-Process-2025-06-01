@@ -1,0 +1,2 @@
+date_utc7,location,device,event_type,impact,log_ref,screenshot,notes
+2025-06-01 05:00-08:00,ホーチミン市 自宅（想定）,iPhone 15 Pro,通話セッション改ざん（通話音声差し替え）,友人の声が約3秒消失し、オフィスのような環境騒音に切替。即時復帰。,My-Viettel-App-MDM.pdf; steChat.data; viettel.der; PIVOT_WINDOW_±60sec.csv; BUNDLE_GROUPS.csv,,相手番号は当時の登録番号と異なる可能性あり（未確定）。MDM運用フェーズでの通話ハイジャックと整合。
